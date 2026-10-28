@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Egecan Karaakın</title>
+<desc id="desc">Embedded systems, microcontroller development and real-time systems. A dark navy banner with a turquoise microprocessor icon and circuit traces.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091321"/><stop offset="1" stop-color="#132c3e"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#8ba9c0" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<rect x="48" y="50" width="5" height="19" rx="2" fill="#60e5c0"/>
+<text x="68" y="65" fill="#60e5c0" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" letter-spacing="1.6">ELECTRICAL &amp; ELECTRONICS ENGINEERING STUDENT</text>
+<text x="48" y="152" fill="#f1f7fc" font-family="DejaVu Sans,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Egecan Karaakın</text>
+<text x="51" y="199" fill="#b8cadb" font-family="DejaVu Sans,Arial,sans-serif" font-size="22">Firmware at the hardware boundary.</text>
+<text x="51" y="226" fill="#8faabd" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Embedded &amp; Microcontroller Development · Hardware–Software Integration</text>
+<path d="M50 244H715" stroke="#365266"/>
+<text x="51" y="276" fill="#d8e8f1" font-family="DejaVu Sans Mono,monospace" font-size="15">EMBEDDED C <tspan fill="#60e5c0"> / </tspan> STM32 <tspan fill="#60e5c0"> / </tspan> MSP430 <tspan fill="#60e5c0"> / </tspan> TIVA C SERIES</text>
+<text x="51" y="302" fill="#d8e8f1" font-family="DejaVu Sans Mono,monospace" font-size="14">RTOS <tspan fill="#60e5c0"> / </tspan> ALGORITHMS &amp; COMPLEXITY</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M882 111V65H800M1002 111V65H1110M882 249V299H800M1002 249V299H1110M867 150H790V116M1017 210H1118V245" stroke="#345267" stroke-width="2"/>
+<path d="M894 91V111M894 249V269" stroke="#7096b2" stroke-width="3"/>
+<path d="M918 91V111M918 249V269" stroke="#7096b2" stroke-width="3"/>
+<path d="M942 91V111M942 249V269" stroke="#7096b2" stroke-width="3"/>
+<path d="M966 91V111M966 249V269" stroke="#7096b2" stroke-width="3"/>
+<path d="M990 91V111M990 249V269" stroke="#7096b2" stroke-width="3"/>
+<path d="M847 132H867M1017 132H1037" stroke="#7096b2" stroke-width="3"/>
+<path d="M847 156H867M1017 156H1037" stroke="#7096b2" stroke-width="3"/>
+<path d="M847 180H867M1017 180H1037" stroke="#7096b2" stroke-width="3"/>
+<path d="M847 204H867M1017 204H1037" stroke="#7096b2" stroke-width="3"/>
+<path d="M847 228H867M1017 228H1037" stroke="#7096b2" stroke-width="3"/>
+<rect x="867" y="111" width="150" height="138" rx="12" fill="#102434" stroke="#60e5c0" stroke-width="2.5"/>
+<rect x="887" y="131" width="110" height="98" rx="5" stroke="#345267" stroke-width="1.5"/>
+<rect x="916" y="158" width="52" height="44" rx="4" stroke="#60e5c0" stroke-width="2"/>
+<path d="M928 145V158M942 145V158M956 145V158M928 202V215M942 202V215M956 202V215M903 170H916M903 190H916M968 170H981M968 190H981" stroke="#7096b2" stroke-width="1.5"/>
+<path d="M1037 156H1090V103H1130M847 204H805V253H767" stroke="#60e5c0" stroke-width="2"/>
+</g>
+<g fill="#60e5c0"><circle cx="880" cy="124" r="3"/><circle cx="1130" cy="103" r="4"/><circle cx="767" cy="253" r="4"/></g>
+<g fill="#7096b2"><circle cx="800" cy="65" r="3"/><circle cx="1110" cy="65" r="3"/><circle cx="800" cy="299" r="3"/><circle cx="1110" cy="299" r="3"/><circle cx="790" cy="116" r="3"/><circle cx="1118" cy="245" r="3"/></g>
+<text x="50" y="329" fill="#7895aa" font-family="DejaVu Sans Mono,monospace" font-size="10" letter-spacing="1.3">ESKISEHIR, TR / EMBEDDED SYSTEMS &amp; SOFTWARE DEVELOPMENT</text>
+</svg>
