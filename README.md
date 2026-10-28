@@ -19,7 +19,7 @@
 
 I'm an Electrical and Electronics Engineering student focused on **embedded systems, firmware development and real-time systems**, with a growing interest in **chip design and digital hardware**.
 
-I've worked with boards and microcontrollers based on **STM32F446RE, STM32H723ZG and STM32F411**, as well as **GD32 variants**, **TI Tiva C Series** and **MSP430 ultra-low-power (ULP) microcontrollers**. My experience includes **embedded C**, **MSP430 assembly**, and **TI-RTOS / SYS/BIOS**, including hardware and software interrupts, timers and interrupt priorities.
+I've worked with boards and microcontrollers based on **STM32F446RE, STM32H723ZG and STM32F411**, as well as **GD32 variants**, **TI Tiva C Series** and **MSP430 ultra-low-power (ULP) microcontrollers**. My experience includes **embedded C**, **MSP430 assembly**, and **TI-RTOS / SYS/BIOS**.
 
 As a former member of **IEEE ESTU Earendil Rover Team**, I worked on custom motor-control electronics and firmware connecting microcontrollers, sensors and power stages. I enjoy working at the hardware–software boundary: reading datasheets, bringing up boards and tracing unexpected behavior across the system.
 
