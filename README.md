@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Egecan Karaakın — Embedded systems, microcontroller development and real-time systems" width="100%" />
+  <img src="./profile-header.svg" alt="Egecan Karaakın — Embedded systems, microcontroller development and real-time systems" width="100%" />
 </p>
 
 <p align="center">
