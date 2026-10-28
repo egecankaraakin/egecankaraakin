@@ -17,11 +17,13 @@
 
 ### Firmware. Real-time systems. Hardware that responds.
 
-I'm an Electrical and Electronics Engineering student focused on **embedded systems and firmware development**. As a former member of **IEEE ESTU Earendil Rover Team**, I worked on custom motor-control electronics and firmware connecting microcontrollers, sensors and power stages. My interests include **real-time systems, microcontroller development and industrial automation**.
+I'm an Electrical and Electronics Engineering student focused on **embedded systems, firmware development and real-time systems**, with a growing interest in **chip design and digital hardware**.
 
-I enjoy working at the hardware–software boundary: reading datasheets, bringing up boards, testing control logic and tracing unexpected behavior across the system.
+I've worked with boards and microcontrollers based on **STM32F446RE, STM32H723ZG and STM32F411**, as well as **GD32 variants**, **TI Tiva C Series** and **MSP430 ultra-low-power (ULP) microcontrollers**. My experience includes **embedded C**, **MSP430 assembly**, and **TI-RTOS / SYS/BIOS**, including hardware and software interrupts, timers and interrupt priorities.
 
-**Currently studying:** Embedded System Design and Algorithms and Complexity.
+As a former member of **IEEE ESTU Earendil Rover Team**, I worked on custom motor-control electronics and firmware connecting microcontrollers, sensors and power stages. I enjoy working at the hardware–software boundary: reading datasheets, bringing up boards and tracing unexpected behavior across the system.
+
+I'm currently taking **Embedded System Design** and **Algorithms and Complexity**, connecting my embedded experience with software design, data structures and algorithm analysis.
 
 ### Engineering work
 
@@ -32,7 +34,7 @@ I enjoy working at the hardware–software boundary: reading datasheets, bringin
 #### 01 / Rover motor controller
 **Embedded C · STM32F411 / F446 · UART**
 
-Custom BLDC controller development for the **Earendil Rover Team**.
+Custom BLDC controller development for the **IEEE ESTU Earendil Rover Team**.
 
 - Hall-sensor-based six-step commutation and PWM control.
 - Integration of gate drivers, a MOSFET power stage and current-sensing circuitry.
@@ -59,29 +61,45 @@ A Schroeder-style reverberation implementation built around modular signal-proce
 </tr>
 </table>
 
-### Current learning focus
+#### 03 / BigNumber — Java algorithms coursework
+**Java · OOP · Data structures · Complexity analysis**
 
-- **Embedded System Design:** studying embedded-system development, building on my previous hands-on rover experience.
-- **Real-time firmware:** TI-RTOS / SYS/BIOS, hardware and software interrupts, timers and interrupt priorities.
-- **Low-level programming:** MSP430 assembly and microcontroller peripherals.
-- **Algorithms and Complexity:** strengthening Java/OOP and data-structure fundamentals.
+My **Algorithms and Complexity** coursework includes a BigNumber project for arbitrary-precision integer arithmetic. The assignment combines a custom generic doubly linked list and iterator with signed arithmetic, comparison and exponentiation by squaring. Its performance-analysis component compares addition and multiplication runtimes across input sizes with theoretical complexity.
+
+### Academic focus
+
+I particularly enjoyed **Digital System Design**, which strengthened my interest in how digital hardware works beneath the firmware. Alongside embedded development, I want to explore **chip design, FPGA-based systems and computer architecture**, building toward a deeper understanding of how processors and digital circuits are designed.
+
+**Current courses:** Embedded System Design · Algorithms and Complexity.
+
+**Planned coursework:** I plan to broaden my digital-systems background through:
+
+- **Hardware design:** Digital Systems Design with VHDL and FPGA; System-on-Chip (SoC) Design; Introduction to Digital Integrated Circuits.
+- **Architecture & networks:** Computer Architecture; Introduction to AI Processor Design; Fundamentals of Data Networks.
+- **Signal processing & computation:** Digital Signal Processing; Engineering Computations.
 
 ### Technical toolkit
 
 | Area | Technologies & practices |
 | :--- | :--- |
 | **Firmware & programming** | Embedded C · MSP430 assembly · Python · Java / OOP fundamentals |
-| **Embedded systems** | STM32 · GD32 · TI Tiva C · MSP430 · TI-RTOS / SYS/BIOS |
+| **Microcontrollers & boards** | STM32F446RE · STM32H723ZG · STM32F411 · GD32 variants · TI Tiva C Series · MSP430 ULP |
+| **Real-time systems** | TI-RTOS / SYS/BIOS · Hardware/software interrupts · Timers · Interrupt priorities |
 | **Interfaces & control** | UART · PWM · GPIO · Timers · Interrupts · Hall-sensor feedback |
 | **Development & hardware** | Git · VS Code · STM32CubeIDE · Code Composer Studio · Apache NetBeans · KiCad · OpenCode |
 | **AI-supported development** | Agentic workflows · AI-assisted development · Iterative debugging |
 
-### Beyond implementation
+### Teamwork, leadership & international experience
 
-- **IEEE ESTU Earendil Rover Team (former member):** component and reference-design research; team representation at SAHA EXPO.
-- **IEEE ESTU Student Branch | Communications Society:** former Committee Vice Chair; technical events, speaker outreach and coordination.
-- **Erasmus+:** exchange experience at Częstochowa University of Technology, Poland.
-- **Technical research:** English-language documentation, datasheets and application notes.
+**IEEE ESTU Earendil Rover Team — former member**  
+Working on a shared engineering project strengthened my teamwork and technical communication skills. I contributed to component and reference-design research and represented the team at **SAHA EXPO**, gaining experience communicating our work beyond the immediate team.
+
+**IEEE ESTU Student Branch | Communications Society — former Committee Vice Chair**  
+Coordinating technical events, speaker outreach and student-team schedules helped me develop **leadership, event organization and reporting skills**. Preparing monthly activity reports also gave me practice documenting progress and identifying opportunities for improvement. Together, my club and team experiences helped me become more confident in communicating with others and working toward shared goals.
+
+**Erasmus+ — Częstochowa University of Technology, Poland**  
+Studying and living in Poland broadened my cultural perspective and gave me experience adapting to a different academic and social environment. Meeting people from different backgrounds strengthened my independence and cross-cultural communication, complementing the technical side of my education.
+
 
 ---
 
