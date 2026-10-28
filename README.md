@@ -17,7 +17,7 @@
 
 ### Firmware. Real-time systems. Hardware that responds.
 
-I'm an Electrical and Electronics Engineering student focused on **embedded systems and firmware development**. As a former member of **Earendil Rover Team**, I worked on custom motor-control electronics and firmware connecting microcontrollers, sensors and power stages. My interests include **real-time systems, microcontroller development and industrial automation**.
+I'm an Electrical and Electronics Engineering student focused on **embedded systems and firmware development**. As a former member of **IEEE ESTU Earendil Rover Team**, I worked on custom motor-control electronics and firmware connecting microcontrollers, sensors and power stages. My interests include **real-time systems, microcontroller development and industrial automation**.
 
 I enjoy working at the hardware–software boundary: reading datasheets, bringing up boards, testing control logic and tracing unexpected behavior across the system.
 
@@ -73,13 +73,13 @@ A Schroeder-style reverberation implementation built around modular signal-proce
 | **Firmware & programming** | Embedded C · MSP430 assembly · Python · Java / OOP fundamentals |
 | **Embedded systems** | STM32 · GD32 · TI Tiva C · MSP430 · TI-RTOS / SYS/BIOS |
 | **Interfaces & control** | UART · PWM · GPIO · Timers · Interrupts · Hall-sensor feedback |
-| **Development & hardware** | Git · VS Code · STM32CubeIDE · Code Composer Studio · KiCad |
+| **Development & hardware** | Git · VS Code · STM32CubeIDE · Code Composer Studio · Apache NetBeans · KiCad · OpenCode |
 | **AI-supported development** | Agentic workflows · AI-assisted development · Iterative debugging |
 
 ### Beyond implementation
 
-- **Earendil Rover Team (former member):** component and reference-design research; team representation at SAHA EXPO.
-- **IEEE ESTU Communications Society:** former Committee Vice Chair; technical events, speaker outreach and coordination.
+- **IEEE ESTU Earendil Rover Team (former member):** component and reference-design research; team representation at SAHA EXPO.
+- **IEEE ESTU Student Branch | Communications Society:** former Committee Vice Chair; technical events, speaker outreach and coordination.
 - **Erasmus+:** exchange experience at Częstochowa University of Technology, Poland.
 - **Technical research:** English-language documentation, datasheets and application notes.
 
